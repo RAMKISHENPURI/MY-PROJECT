@@ -16,7 +16,7 @@ The financial simulation showed that this dynamic pricing framework could increa
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/RAMKISHENPURI/MY-PROJECT.git](https://github.com/RAMKISHENPURI/MY-PROJECT.git)
+    git clone https://github.com/RAMKISHENPURI/MY-PROJECT.git
     cd MY-PROJECT
     ```
 
