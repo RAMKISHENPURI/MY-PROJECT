@@ -1,15 +1,33 @@
-# Dynamic Pricing Framework for Airbnb
+# Dynamic Pricing for Airbnb Hosts in Bristol
+
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/4eedc339-8e49-42b5-b8eb-8f19885b42d4" />
 
-This repository contains a machine learning framework to provide dynamic pricing recommendations for Airbnb hosts, using a case study of Bristol, UK. All required datasets and Jupyter Notebooks are included. The goal is to help small-scale hosts optimize revenue by forecasting daily booking probability.
+This repository showcases an end-to-end AI-driven pricing framework designed to help small Airbnb hosts in Bristol optimise their revenue.
+The solution integrates machine learning, explainable AI, financial simulation, and dashboard visualisation to support data-driven pricing decisions.
 
-**Live Demo:** [**https://bristol-airbnb-dashboard.onrender.com/**](https://bristol-airbnb-dashboard.onrender.com/)
+It demonstrates how analytics can move beyond prediction to economic value creation.
+
+**Live Interactive Dashboard:** [**https://bristol-airbnb-dashboard.onrender.com/**](https://bristol-airbnb-dashboard.onrender.com/)
 
 ---
 
-## Key Result
+## Key Results
 
-The financial simulation showed that this dynamic pricing framework could increase host revenue by **41.82%** compared to their original listed prices.
+This section quantifies the model’s technical performance, interpretability insights, and economic value.
+
+✔ Model Performance:
+The predictive model achieved a 0.7884 AUC-ROC, demonstrating reliable booking probability forecasting.
+
+✔ Explainability Findings:
+SHAP analysis identified review recency, month, and price as the top demand drivers, offering interpretable insights for non-technical decision-makers.
+
+✔ Business Impact:
+Financial simulation revealed:
+
+📌 41.82% uplift vs. host-listed pricing  
+📌 24.37% uplift vs. static average pricing
+
+➡ These outcomes highlight the commercial value of data-driven dynamic pricing for small Airbnb hosts.
 
 ---
 
