@@ -1,4 +1,5 @@
 # Dynamic Pricing Framework for Airbnb
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/4eedc339-8e49-42b5-b8eb-8f19885b42d4" />
 
 This repository contains a machine learning framework to provide dynamic pricing recommendations for Airbnb hosts, using a case study of Bristol, UK. All required datasets and Jupyter Notebooks are included. The goal is to help small-scale hosts optimize revenue by forecasting daily booking probability.
 
